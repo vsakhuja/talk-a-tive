@@ -13,24 +13,28 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 # Features
 
-### Authenticaton![add rem](https://github.com/vsakhuja/talk-a-tive/assets/72035321/cc0b3ec4-572e-4e59-a506-1c919912c9cd)
-![Uploading add rem.PNG…]()
+### Authenticaton![add rem]
+![login](https://github.com/vsakhuja/talk-a-tive/assets/72035321/5f76a430-c7b3-4cb0-a9e6-2bdc77b71e1c)
+![signup](https://github.com/vsakhuja/talk-a-tive/assets/72035321/9f120180-5010-407b-bea7-3b2483fc9e84)
 
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/login.PNG)
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/real-time.PNG)
-### One to One chat
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/mainscreen.PNG)
-### Search Users
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/search.PNG)
-### Create Group Chats
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/profile.PNG)
+![real-time](https://github.com/vsakhuja/talk-a-tive/assets/72035321/6dc7a566-1c53-4037-ad35-3cd0bffad298)
 
-  
+### One to One chat
+![mainscreen](https://github.com/vsakhuja/talk-a-tive/assets/72035321/1915ba5b-d6a9-42b8-8c1c-729653e67ad9)
+
+### Search Users
+![search](https://github.com/vsakhuja/talk-a-tive/assets/72035321/664455dc-d665-4071-b38e-b959263668eb)
+
+### Create Group Chats
+![new grp](https://github.com/vsakhuja/talk-a-tive/assets/72035321/ec3bbb51-5e75-4f90-9f2b-e0b75f2f14d5)
+
+### Notifications 
+![group + notif](https://github.com/vsakhuja/talk-a-tive/assets/72035321/58809d82-a1a0-44f1-b6d4-c7643dd23087)
+
+### Add or Remove users from group
+![add rem](https://github.com/vsakhuja/talk-a-tive/assets/72035321/3357a416-d68e-411c-9f47-ba35b151da7e)
+
+### View Other user Profile
+  ![profile](https://github.com/vsakhuja/talk-a-tive/assets/72035321/139927a1-27c6-45ac-9636-b464822a9c8a)
+
