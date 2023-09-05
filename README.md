@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 # Features
 
-### Authenticaton![add rem]
+### Authenticaton
 ![login](https://github.com/vsakhuja/talk-a-tive/assets/72035321/5f76a430-c7b3-4cb0-a9e6-2bdc77b71e1c)
 ![signup](https://github.com/vsakhuja/talk-a-tive/assets/72035321/9f120180-5010-407b-bea7-3b2483fc9e84)
 
