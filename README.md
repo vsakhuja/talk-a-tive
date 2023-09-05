@@ -35,6 +35,4 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ### Add or Remove users from group
 ![add rem](https://github.com/vsakhuja/talk-a-tive/assets/72035321/3357a416-d68e-411c-9f47-ba35b151da7e)
 
-### View Other user Profile
-  ![profile](https://github.com/vsakhuja/talk-a-tive/assets/72035321/139927a1-27c6-45ac-9636-b464822a9c8a)
 
