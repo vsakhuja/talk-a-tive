@@ -13,7 +13,9 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 # Features
 
-### Authenticaton
+### Authenticaton![add rem](https://github.com/vsakhuja/talk-a-tive/assets/72035321/cc0b3ec4-572e-4e59-a506-1c919912c9cd)
+![Uploading add rem.PNG…]()
+
 ![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/login.PNG)
 ![](https://github.com/vsakhuja/talk-a-tive/tree/4d6c66848191ea4b5dc7de2678a5d6c814313db0/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
